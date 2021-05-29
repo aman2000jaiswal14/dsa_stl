@@ -1,7 +1,0 @@
-build/
-dist/
-dsa.egg-info/
-dsa_stl.egg-info/
-.git/
-.idea/
-.gitignore
