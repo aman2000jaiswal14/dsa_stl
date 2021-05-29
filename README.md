@@ -10,8 +10,10 @@ pip install dsa_stl
 
 ```
 from dsa_stl import testdsa
-testdsa()
+testdsa.test()
 ```
+##### Output
+
 `
 test successful...
 `
