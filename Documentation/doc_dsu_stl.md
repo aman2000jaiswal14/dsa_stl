@@ -25,8 +25,13 @@ n = number of element in set.
 - (uses path compression technique)
 ```
 dsu = DSU(n)
-dsu.find(n)
+dsu.find(i)
 ```
+##### Output
+`
+find the subset of i th  element.
+`
+
 ---
 #### union
 
