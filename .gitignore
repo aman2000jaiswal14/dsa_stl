@@ -1,0 +1,6 @@
+build/
+dist/
+dsa.egg-info/
+dsa_stl_egg-info/
+.git/
+.idea/
